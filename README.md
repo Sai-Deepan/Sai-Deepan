@@ -1,5 +1,6 @@
 ############################## UNDER CONSTRUCTION ##############################
 
+
 ### Tech Stack  
 
 #### Operating Systems  
@@ -15,14 +16,11 @@
 ![Boards](https://skillicons.dev/icons?i=arduino,raspberrypi)
 
 #### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,jetbrainscanva)
+![Tools](https://skillicons.dev/icons?i=git,github,vim,neovim,pycharm,webstorm,vscode)
 
 #### Cloud
 ![Cloud](https://skillicons.dev/icons?i=aws,azure,googlecloud)
 
 #### Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]
-
-
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/) 
+[![Mail](https://skillicons.dev/icons?i=gmail](https://www.linkedin.com/in/) 

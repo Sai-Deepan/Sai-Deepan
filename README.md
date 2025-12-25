@@ -23,7 +23,7 @@
 ## Editors & IDEs
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,PyCharm,webstorm,obsidian" />
+    <img src="https://skillicons.dev/icons?i=vim,pyCharm,webstorm,obsidian" />
   </a>
 </p>
 
@@ -43,3 +43,4 @@
 
 # Contact
 - Mail: skdeepan.sai@gmail.com
+

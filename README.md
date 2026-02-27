@@ -110,6 +110,11 @@
   </a>
 </p>
 
+---
+
+> [!CAUTION]  
+> ⚠️ **Disclaimer**  
+> Please use the information and exploits provided in my repositories for educational purposes and responsible disclosure only. I am not responsible for any misuse or damage caused by using these tools, scripts, or exploits.
 
 
 

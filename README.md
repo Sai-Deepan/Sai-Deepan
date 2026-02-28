@@ -20,11 +20,12 @@
 </div>
 
 <!-- GitHub Status -->
-<!--<h3 align="center">🌱 GitHub Status</h3>
+<h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
   <img width="398" src="https://github-readme-stats.vercel.app/api?username=Sai-Deepan&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
   <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Sai-Deepan&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
-</div>-->
+</div>
+
 
 
 <br/>
@@ -115,6 +116,7 @@
 > [!CAUTION]  
 > ⚠️ **Disclaimer**  
 > Please use the information and exploits provided in my repositories for educational purposes and responsible disclosure only. I am not responsible for any misuse or damage caused by using these tools, scripts, or exploits.
+
 
 
 

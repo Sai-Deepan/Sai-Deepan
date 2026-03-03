@@ -4,8 +4,6 @@
   <a href="https://github.com/Sai-Deepan" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Sai-Deepan&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
   
-  <!--<img src="https://img.shields.io/badge/Profile%20Views-12,391-5e81ac?style=for-the-badge&logo=github" />-->
-
   <!-- Total Stars -->
   <a href="https://github.com/Sai-Deepan?tab=repositories&sort=stargazers" target="_blank">
     <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Sai-Deepan?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
@@ -116,6 +114,7 @@
 > [!CAUTION]  
 > ⚠️ **Disclaimer**  
 > Please use the information and exploits provided in my repositories for educational purposes and responsible disclosure only. I am not responsible for any misuse or damage caused by using these tools, scripts, or exploits.
+
 
 
 

@@ -1,3 +1,12 @@
+<div aling="center">
+  <!-- https://github.com/DenverCoder1/readme-typing-svg?tab=readme-ov-file -->
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Deepan+Sai!;Linux+Kernel+%26+Low-Level+Programming;Hacking+%26+Reverse+Engineering;AI%2FML+%26+LLM+Research;Open+Source" alt="Typing SVG" /></a>
+
+</div>
+
+<br/>
+
 <div align="center">
   <!-- Profile Views -->
   
@@ -133,6 +142,7 @@
 > [!CAUTION]  
 > ⚠️ **Disclaimer**  
 > Please use the information and exploits provided in my repositories for educational purposes and responsible disclosure only. I am not responsible for any misuse or damage caused by using these tools, scripts, or exploits.
+
 
 
 
